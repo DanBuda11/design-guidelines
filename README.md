@@ -9,8 +9,13 @@
 
 ### Spacing
 
-- Use line spacing of 120-150%
-- 45-90 characters per line
+- Use line spacing of 120-150% (another opinion: 1.6 ratio is a good place to start, so for example 12px font with 19.2px spacing or 14px font with 22.4px spacing)
+- 45-90 characters per line (another opinion says 45-75)
+- Letter spacing: large headlines can look better with less spacing, while text can look better by adding some spacing
+
+### Justification
+
+- Don't use justified font. Stick to left-aligned as it's easier to read
 
 ### Font Families
 
@@ -26,25 +31,30 @@
   - PT Serif
 - Choose a font that reflects the look and feel you want for the website
 - Decide on serif or sans-serif
-- Use only one typeface (unless you're more experienced)
+- Use only one typeface (unless you're more experienced) OR use 2 typefaces (one for headings and another for content) and then use bold, italics, uppercase, etc. to style them
 
 ## Color
 
 - Use only one base color (anything other than black, white, shade of gray) then you can use something like http://0to255.com to get lighter & darker shades of that color to use as accents, hover states, etc.
 - Can use the main or a complementary 2nd color for things like a call-to-action button or anythign else that needs attention drawn to it
+- Another opinion: choose 2 to 4 color and use only those
 - Use a color to draw attention; a color that stands out will draw attention to things on the page
 - Never use black in a design (even in fonts) - it almost never appears in the real world
 - How to choose a color:
-  - <span style="color:red; font-weight:bold">Red</span>: power, passion, strength, excitement
+  - <span style="color:red; font-weight:bold">Red</span>: power, passion, strength, excitement, aggression, importance
     - Brighter tones are more energetic
     - Darker shades show more power & elegance
-  - <span style="color:orange; font-weight:bold">Orange</span>: draws attention without being as overpowering as red, cheerfulness, creativity, friendliness, confidence, courage
-  - <span style="color:yellow; font-weight:bold">Yellow</span>: energetic, feelings of happiness & liveliness, curiousity, intelligence, brightness
-  - <span style="color:green; font-weight:bold">Green</span>: harmony, nature, life, health, associated with money, balancing & harmonizing effect
-  - <span style="color:blue; font-weight:bold">Blue</span>: patience, peace, trustworthiness, stability, professionalism, trust, honor
-  - <span style="color:purple; font-weight:bold">Purple</span>: power, nobility, wealth, wisdom, luxury, mystery
-  - <span style="color:pink; font-weight:bold">Pink</span>: romance, passivity, care, peace, affection
-  - <span style="color:brown; font-weight:bold">Brown</span>: relaxation, confidence, earthiness, nature, durability, comfort, reliability
+  - <span style="color:orange; font-weight:bold">Orange</span>: draws attention without being as overpowering as red, cheerfulness, creativity, friendliness, confidence, courage, energy, playfunless, affordability
+  - <span style="color:yellow; font-weight:bold">Yellow</span>: energetic, feelings of happiness & liveliness, curiousity, intelligence, brightness, friendliness, attention
+  - <span style="color:green; font-weight:bold">Green</span>: harmony, nature, life, health, associated with money, balancing & harmonizing effect, growth, success
+  - <span style="color:blue; font-weight:bold">Blue</span>: patience, peace, trustworthiness, stability, professionalism, trust, honor, comfort, relaxation
+  - <span style="color:purple; font-weight:bold">Purple</span>: power, nobility, wealth, wisdom, luxury, mystery, romance
+  - <span style="color:pink; font-weight:bold">Pink</span>: romance, passivity, care, peace, affection, playfulness, innocence, youth
+  - <span style="color:brown; font-weight:bold">Brown</span>: relaxation, confidence, earthiness, nature, durability, comfort, reliability, stability, rustic
+  - <span style="font-weight:bold;">Black</span>: power, sophistication, edgy
+  - <span style="font-weight:bold;text-shadow: 1px 1px 1px #000;color:white">White</span>: virtue, sterility, health
+  - <span style="font-weight:bold;color:grey">Grey</span>: formality, neutrality, professionalism
+  - <span style="font-weight:bold;color:#fffff0;text-shadow: 1px 1px 1px #000;">Ivory</span>: quiet, calm, elegance
 
 ## Images
 
@@ -75,9 +85,10 @@
 
 - Use a lot of white space in the correct places
 - You want space between different sections of the site, between headings and content, etc.
-- Put whitespace between elements, groups of elements, website's sections
-- Don't overexaggerate whitespace though
+- Put white space between elements, groups of elements, website's sections, lines of text
+- Don't overexaggerate white space though
 - Define hierarchy:
   - Define where you want your audience to look first
   - Establish a flow that corresponds to the content's message
-  - Use whitespace to build that flow
+  - Use white space to build that flow
+  - Try to double what your instinct tells you initially is the correct about of white space and see what it looks like
