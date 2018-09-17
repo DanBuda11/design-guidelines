@@ -37,9 +37,10 @@
 
 - Use only one base color (anything other than black, white, shade of gray) then you can use something like http://0to255.com to get lighter & darker shades of that color to use as accents, hover states, etc.
 - Can use the main or a complementary 2nd color for things like a call-to-action button or anythign else that needs attention drawn to it
-- Another opinion: choose 2 to 4 color and use only those
+- Another opinion: choose 2 to 4 colors and use only those
 - Use a color to draw attention; a color that stands out will draw attention to things on the page
 - Never use black in a design (even in fonts) - it almost never appears in the real world
+- If using shadows or gradients, put lighter colors on top to make it appear as though the light is hitting the element from above
 - How to choose a color:
   - <span style="color:red; font-weight:bold">Red</span>: power, passion, strength, excitement, aggression, importance
     - Brighter tones are more energetic
@@ -92,3 +93,13 @@
   - Establish a flow that corresponds to the content's message
   - Use white space to build that flow
   - Try to double what your instinct tells you initially is the correct about of white space and see what it looks like
+  - Use an "F" shaped layout: people read from the top left going right then down. The farther down they go, the less likely they are to go all the way to the right
+  - Establish a visual hierarchy: make more important elements stand out by using size (larger), color (more saturated and/or warmer colors), positioning (upper left for more important items), more contrast, increased white space, typography (different font for header and content)
+  - Use the rule of thirds: split the screen into a 3x3 grid and put important elements at the intersection of the grid lines, or use a 3-column layout and put important elements on the break lines
+
+## Content
+
+- Big chunks of text are more likely to be skipped, so stick to 2-3 sentences per paragraph, use smaller words, and say what you are trying to say with as few words as possible
+- If possible, split a larger paragraph into concise bullet points
+- Use strategic bolding to make important text stand out
+- Use short, clear headlines
