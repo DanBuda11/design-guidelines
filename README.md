@@ -84,6 +84,7 @@
 
 ## Spacing & Layout
 
+- Don't worry about designing past 960 pixels. Even though there are larger screens, it's ok to have extra white space on the sides instead of trying to redesign stuff to fill up the extra space
 - Use a lot of white space in the correct places
 - You want space between different sections of the site, between headings and content, etc.
 - Put white space between elements, groups of elements, website's sections, lines of text
