@@ -38,24 +38,35 @@
 - Use only one base color (anything other than black, white, shade of gray) then you can use something like http://0to255.com to get lighter & darker shades of that color to use as accents, hover states, etc.
 - Can use the main or a complementary 2nd color for things like a call-to-action button or anythign else that needs attention drawn to it
 - Another opinion: choose 2 to 4 colors and use only those
+- Another opinion: use a maximum of 3 primary colors; if additional colors desired, make use of shades and tints
 - Use a color to draw attention; a color that stands out will draw attention to things on the page
 - Never use black in a design (even in fonts) - it almost never appears in the real world
 - If using shadows or gradients, put lighter colors on top to make it appear as though the light is hitting the element from above
 - How to choose a color:
-  - <span style="color:red; font-weight:bold">Red</span>: power, passion, strength, excitement, aggression, importance
+  - <span style="color:red; font-weight:bold">Red</span>: power, passion, strength, excitement, aggression, importance, danger, speed, energy
     - Brighter tones are more energetic
     - Darker shades show more power & elegance
-  - <span style="color:orange; font-weight:bold">Orange</span>: draws attention without being as overpowering as red, cheerfulness, creativity, friendliness, confidence, courage, energy, playfunless, affordability
+  - <span style="color:orange; font-weight:bold">Orange</span>: draws attention without being as overpowering as red, cheerfulness, creativity, friendliness, confidence, courage, energy, playfunless, affordability, cheap
   - <span style="color:yellow; font-weight:bold">Yellow</span>: energetic, feelings of happiness & liveliness, curiousity, intelligence, brightness, friendliness, attention
-  - <span style="color:green; font-weight:bold">Green</span>: harmony, nature, life, health, associated with money, balancing & harmonizing effect, growth, success
-  - <span style="color:blue; font-weight:bold">Blue</span>: patience, peace, trustworthiness, stability, professionalism, trust, honor, comfort, relaxation
-  - <span style="color:purple; font-weight:bold">Purple</span>: power, nobility, wealth, wisdom, luxury, mystery, romance
-  - <span style="color:pink; font-weight:bold">Pink</span>: romance, passivity, care, peace, affection, playfulness, innocence, youth
+  - <span style="color:green; font-weight:bold">Green</span>: harmony, nature, life, health, associated with money & business, balancing & harmonizing effect, growth, success, safety, signifies a sense of right or wrong
+  - <span style="color:blue; font-weight:bold">Blue</span>: patience, peace, trustworthiness, stability, professionalism, trust, honor, comfort, relaxation, calming
+  - <span style="color:purple; font-weight:bold">Purple</span>: power, nobility, wealth, wisdom, luxury, mystery, romance, high end products
+  - <span style="color:pink; font-weight:bold">Pink</span>: romance, passivity, care, peace, affection, playfulness, innocence, youth, femininity
   - <span style="color:brown; font-weight:bold">Brown</span>: relaxation, confidence, earthiness, nature, durability, comfort, reliability, stability, rustic
-  - <span style="font-weight:bold;">Black</span>: power, sophistication, edgy
-  - <span style="font-weight:bold;text-shadow: 1px 1px 1px #000;color:white">White</span>: virtue, sterility, health
-  - <span style="font-weight:bold;color:grey">Grey</span>: formality, neutrality, professionalism
+  - <span style="font-weight:bold;">Black</span>: power, sophistication, edgy, mysterous
+  - <span style="font-weight:bold;text-shadow: 1px 1px 1px #000;color:white">White</span>: virtue, sterility, health, purity, cleanliness
+  - <span style="font-weight:bold;color:grey">Grey</span>: formality, neutrality, professionalism, sophistication
   - <span style="font-weight:bold;color:#fffff0;text-shadow: 1px 1px 1px #000;">Ivory</span>: quiet, calm, elegance
+- Creating color schemes using the 12 color wheel:
+  - ![12 Color Wheel](color-wheel.gif)
+  - A Monochromatic scheme produces a soothing effect by using only one color on the wheel but uses variations of that color in tints, shades and tones
+  - An Analogous scheme uses related colors on the wheel (next to each other) with one dominant color and others used to enrich the scheme
+  - A Complementary scheme consists primarily of two contrasting colors (opposite each other on the color wheel); choose one as the dominant color and the other for accents (think of the iOS green phone app with the bright red notification badges)
+  - A Custom scheme can be made using one bright accent color into an otherwise neutral palette (a grey monochromatic scheme with one blue color, for example)
+- Use color schemes that come from nature when possible
+- The 60-30-10 Rule: 60% is the dominant hue, 30% is a secondary color, and 10% is an accent color; the secondary color should support the dominant color but is different enough to set them apart and the accent color can be used for the Call to Action or another element you want to spotlight
+- Design in grayscale first to force yourself to focus on spacing and element layout
+- Use NoCoffee Vision Simulator for Chrome to experience your designs as a color-blind person would see them
 
 ## Images
 
